@@ -1,2 +1,2 @@
-# hovobods-simulator
+# Hovobods Simulator
 Hovobods Simulator
