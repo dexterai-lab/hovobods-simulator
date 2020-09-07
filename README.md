@@ -1,5 +1,5 @@
 # Hovobods Simulator
-Hovobods Simulator
+Hovobods Simulator is a side project which came out during the research and developement of the Hovobods. The Hovobods are fully autonomous self flying drones which could fly in close proximity with humans and other objects to capture unique and pricessless moments and experiences of the users.
 
 Download the latest version below:
 
